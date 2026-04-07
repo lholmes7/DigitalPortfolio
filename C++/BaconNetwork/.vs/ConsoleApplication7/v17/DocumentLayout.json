@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lando\\source\\repos\\ConsoleApplication7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F45BD65-6A6B-4034-A17C-52D526F9C0D6}|ConsoleApplication7.vcxproj|C:\\Users\\lando\\source\\repos\\ConsoleApplication7\\ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F45BD65-6A6B-4034-A17C-52D526F9C0D6}|ConsoleApplication7.vcxproj|solutionrelative:ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lando\\source\\repos\\ALWGraph.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ALWGraph.hpp",
+              "DocumentMoniker": "C:\\Users\\lando\\source\\repos\\ALWGraph.hpp",
+              "RelativeDocumentMoniker": "..\\ALWGraph.hpp",
+              "ToolTip": "C:\\Users\\lando\\source\\repos\\ALWGraph.hpp",
+              "RelativeToolTip": "..\\ALWGraph.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-16T20:55:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication7.cpp",
+              "DocumentMoniker": "C:\\Users\\lando\\source\\repos\\ConsoleApplication7\\ConsoleApplication7.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication7.cpp",
+              "ToolTip": "C:\\Users\\lando\\source\\repos\\ConsoleApplication7\\ConsoleApplication7.cpp",
+              "RelativeToolTip": "ConsoleApplication7.cpp",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T21:20:08.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

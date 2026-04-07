@@ -1,0 +1,16 @@
+﻿  Assembling MASM.asm...
+MASM.asm(4): error A2008: syntax error : .
+MASM.asm(5): error A2008: syntax error : .
+MASM.asm(6): error A2008: syntax error : .
+MASM.asm(8): error A2008: syntax error : ,
+MASM.asm(9): error A2008: syntax error : ,
+MASM.asm(10): error A2008: syntax error : ,
+MASM.asm(25): error A2070: invalid instruction operands
+MASM.asm(29): error A2070: invalid instruction operands
+MASM.asm(37): error A2008: syntax error : invoke
+MASM.asm(39): error A2008: syntax error : main
+MASM.asm(39): error A2088: END directive required at end of file
+MASM.asm(24): error A2229: cannot use labels and 32-bit addressing in the same expression
+MASM.asm(26): error A2006: undefined symbol : SetTextColor
+MASM.asm(30): error A2006: undefined symbol : WriteString
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"Assembly\x64\Debug\MASM.obj" /W3 /errorReport:prompt  /TaMASM.asm" exited with code 1.

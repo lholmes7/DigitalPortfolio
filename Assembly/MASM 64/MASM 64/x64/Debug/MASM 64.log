@@ -1,0 +1,9 @@
+﻿  Assembling MASM64.asm...
+MASM64.asm(29): error A2008: syntax error : invoke
+MASM64.asm(31): error A2008: syntax error : main
+MASM64.asm(31): error A2088: END directive required at end of file
+MASM64.asm(19): error A2229: cannot use labels and 32-bit addressing in the same expression
+MASM64.asm(20): error A2026: constant expected
+MASM64.asm(22): error A2229: cannot use labels and 32-bit addressing in the same expression
+MASM64.asm(23): error A2026: constant expected
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"MASM 64\x64\Debug\MASM64.obj" /W3 /errorReport:prompt  /TaMASM64.asm" exited with code 1.

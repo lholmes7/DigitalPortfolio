@@ -1,0 +1,7 @@
+﻿  Assembling MASM64.asm...
+MASM64.asm(6): error A2013: .MODEL must precede this directive
+MASM64.asm(7): error A2034: must be in segment block : main
+MASM64.asm(9): error A2034: must be in segment block
+MASM64.asm(11): error A2034: must be in segment block
+MASM64.asm(13): fatal error A1010: unmatched block nesting : main
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"MASM 64\Debug\MASM64.obj" /W3 /errorReport:prompt  /TaMASM64.asm" exited with code 1.
